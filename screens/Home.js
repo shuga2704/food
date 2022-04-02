@@ -10,7 +10,7 @@ const Home = () => {
       <FocusedStatusBar background={COLORS.primary} />
 
       <View style={{ flex: 1 }}>
-        <View style={{ zIndex: 0 }}>
+             <View style={{ zIndex: 0 }}>
           <FlatList
             data={NFTData}
             renderItem={({ item }) => <Text>{item.name}</Text>}
