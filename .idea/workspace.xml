@@ -1,12 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45811379-6110-4a02-9cdf-9db9cab89483" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/SearchScreen.js" afterDir="false" />
+    <list default="true" id="45811379-6110-4a02-9cdf-9db9cab89483" name="Changes" comment="Init">
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/badge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/eth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/nft01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/nft02.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/nft03.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/nft04.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/nft05.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/nft06.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/nft07.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/person01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/person02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/person03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/person04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/HomeHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/NFTCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/assets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/dummy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/Details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/FocusedStatusBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/SearchScreen.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +56,9 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="26ICCqLVOnVZp4j7T9l0HQGvLP1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,8 +70,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -46,8 +92,17 @@
       <option name="presentableId" value="Default" />
       <updated>1647101589112</updated>
       <workItem from="1647101591005" duration="6000" />
-      <workItem from="1647101660616" duration="3454000" />
+      <workItem from="1647101660616" duration="23347000" />
+      <workItem from="1648725642943" duration="3243000" />
     </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1647169757681</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647169757681</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,6 +118,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
